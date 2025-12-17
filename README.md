@@ -67,7 +67,7 @@ omkarnerale18/static-site
 
   ```
 ---
-##📸 Screenshots
+## 📸 Screenshots
 ## Website Running on Localhost
 ![Website](./Screenshots/Kubernetes-deployment-1.jpg)
 ![Website](./Screenshots/Kubernetes-deployment-2.jpg)
