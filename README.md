@@ -80,7 +80,7 @@ omkarnerale18/static-site
 ![Pushing Image](./Screenshots/Kubernetes-deployment-4.jpg)
 
 ## Kubernetes resources and Port Forwarding
-![Port Forwarding](.Screenshots/Kubernetes-deployment-5jpg)
+![Port Forwarding](./Screenshots/Kubernetes-deployment-5.jpg)
 
 
 
